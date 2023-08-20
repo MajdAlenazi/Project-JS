@@ -597,7 +597,7 @@ SQuestions.forEach((question, index) => {
             <div class="row g-0">
               <div class="col-md-4">
                 <img
-                  src="31022.png"
+                  src="/31022.png"
                   class="img-fluid rounded-start d-none d-md-block img-style"
                   alt="math-icon"
                 />
@@ -686,7 +686,7 @@ let set = setInterval(function () {
             Try Again
             </button>
             <a
-            href="result.html"
+            href="./result.html"
             id="check-button"
             type="button"
             class="btn fw-bold btn-warning mb-5"
